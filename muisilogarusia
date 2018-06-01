@@ -1,0 +1,39 @@
+{
+  "Pakgenm": [
+    {
+      "kgenm": "com.muisi.logarusia"
+    }
+  ],
+  "grob": [
+    {
+      "name": " المحاضرة الاولي من دورة اللغة الروسية",
+      "image": "http://www.mp3.xyz/th/m/wWrypCazx3j.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/lorarosia1"
+    },
+
+    {
+      "name": "دورة اللغة الروسية للمبتدئين (مستوى2)",
+      "image": "https://i.pinimg.com/736x/1c/76/64/1c76647b0266cca3bd9d3e3f224d6ccf.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/lorarosia2"
+    },
+
+    {
+      "name": "المستوى الثالث لتعليم اللغة الروسية",
+      "image": "https://khamsat.hsoubcdn.com/images/services/917964/0fe000a27b634965209c4d9131f73586.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/lorarosia3"
+    },
+
+    {
+      "name": "المستوى الرابع لتعليم اللغة الروسية للمبتدئين",
+      "image": "http://arabic.rt.com/design/lsns/i/bigpic1.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/lorarosia4"
+    },
+
+
+    {
+      "name": "المستوى الخامس للغة الروسية للمبتدئين",
+      "image": "http://www.mp3.xyz/th/m/z7TKuZduRjF.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/lorarosia5"
+    }
+  ]
+}
