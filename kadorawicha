@@ -1,0 +1,56 @@
+{
+  "Pakgenm": [
+    {
+      "kgenm": "com.muisi.kadore"
+    }
+  ],
+  "grob": [
+    {
+      "name": "أغـــــــــــــانـــــي للأطفال",
+      "image": "https://i.ytimg.com/vi/jW25cdmNIpw/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/adfale"
+    },
+
+    {
+      "name": "1 قدور و عويشة",
+      "image": "https://i.ytimg.com/vi/F1S_iXeZvt4/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/kadore1"
+    },
+
+    {
+      "name": "2 قدور و عويشة",
+      "image": "https://i.ytimg.com/vi/RbKYfa2nH3w/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/kadore2"
+    },
+
+    {
+      "name": "3 قدور و عويشة",
+      "image": "https://i.ytimg.com/vi/SU3173oifpk/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/kadore3"
+    },
+
+    {
+      "name": "قدور و عويشة 4",
+      "image": "https://i.ytimg.com/vi/Cy5j6ueZA38/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/kadore4"
+    },
+
+    {
+      "name": "قدور و عويشة 5",
+      "image": "https://i.ytimg.com/vi/s75--6gqhE0/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/kadore5"
+    },
+
+   {
+      "name": "قدور و عويشة 6",
+      "image": "https://i.ytimg.com/vi/f5kFdyuRx_k/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/kadore6"
+    },
+
+    {
+      "name": "قدور و عويشة 7",
+      "image": "https://i.ytimg.com/vi/Hi42av3azMc/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/mssici/vedio/master/kadore7"
+    }
+  ]
+}
